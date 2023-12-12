@@ -1,3 +1,8 @@
+
+// steps to solve this problems
+// 1-convert row into colum of the matrix
+// 2-reverse each row of the matrix
+
 class Solution {
 public:
     void rotate(vector<vector<int>>& matrix) {
@@ -13,4 +18,4 @@ public:
             reverse(matrix[i].begin(),matrix[i].end());
         }
     }
-};
+}; 
