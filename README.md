@@ -7,7 +7,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 ```
 By [Sane Aalam - Dr. A.P.J. Abdul Kalam Technical University in Computer Science & Engineering.](https://github.com/sane-aalam)
 
-![DSA Image](/leetcode-graphs.png)
+![DSA Image](/Level%20-%2001%20Arrays%20and%202D%20Matrix/leetcode-graphs.png)
 
 ## 1. Table of Contents
 
