@@ -21,7 +21,9 @@ public:
                 int sum = x + y + z;
                 if(sum == zeroEqualChcker){
                     // set has power to duplicate (3,3,3) convert into the single (3) 
-                    s.insert({nums[i], nums[start],nums[end]});
+                    //* update the code 
+                    // s.insert({nums[i], nums[start],nums[end]});
+                    s.insert({x,y,z}); 
                     // we have increase the start, decrease the end variable 
                     start++;
                     end --;
